@@ -1,0 +1,7 @@
+E:\Projetos\IMP\Ferramentas\XMLtoSQL\XMLtoSQL\XMLtoSQL\bin\Debug\XMLtoSQL.exe.config
+E:\Projetos\IMP\Ferramentas\XMLtoSQL\XMLtoSQL\XMLtoSQL\bin\Debug\XMLtoSQL.exe
+E:\Projetos\IMP\Ferramentas\XMLtoSQL\XMLtoSQL\XMLtoSQL\bin\Debug\XMLtoSQL.pdb
+E:\Projetos\IMP\Ferramentas\XMLtoSQL\XMLtoSQL\XMLtoSQL\obj\Debug\XMLtoSQL.csprojAssemblyReference.cache
+E:\Projetos\IMP\Ferramentas\XMLtoSQL\XMLtoSQL\XMLtoSQL\obj\Debug\XMLtoSQL.csproj.CoreCompileInputs.cache
+E:\Projetos\IMP\Ferramentas\XMLtoSQL\XMLtoSQL\XMLtoSQL\obj\Debug\XMLtoSQL.exe
+E:\Projetos\IMP\Ferramentas\XMLtoSQL\XMLtoSQL\XMLtoSQL\obj\Debug\XMLtoSQL.pdb
